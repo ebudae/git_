@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "git", "git\git.pyproj", "{0A8BED5F-9239-4D2B-81BA-6846A6F2E5FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A8BED5F-9239-4D2B-81BA-6846A6F2E5FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8BED5F-9239-4D2B-81BA-6846A6F2E5FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BEB663ED-2682-4D3C-91AD-90940DEB6ABB}
+	EndGlobalSection
+EndGlobal
